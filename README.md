@@ -2,7 +2,8 @@
 
 CPU based Human Parser of https://github.com/GoGoDuck912/Self-Correction-Human-Parsing. Thank you so much your work.
 
-Human Parser Method used in other use cases, so added only Human Parsing related source files here.
+Human Parser Method used in some other Use Case, so added only Human Parsing related source files.
+
 You can download pretrained model using this link: https://drive.google.com/uc?id=1k4dllHpu0bdx38J7H28rVVLpU-kOHmnH 
 and rename as final.pth
 
