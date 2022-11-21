@@ -1,4 +1,4 @@
-## Self Correction Human Parsiong on CPU
+## Self Correction Human Parsing on CPU
 
 CPU based Human Parser of https://github.com/GoGoDuck912/Self-Correction-Human-Parsing. Thank you so much for our work.
 
